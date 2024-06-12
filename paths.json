@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/huloresr-learningxwalk/:/",
-    "/content/huloresr-learningxwalk/configuration:/.helix/config.json"
+    "/content/aem-boilerplate/:/",
+    "/content/aem-boilerplate/configuration:/.helix/config.json"
   ]
 }
