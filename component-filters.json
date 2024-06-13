@@ -27,7 +27,8 @@
       "title",
       "hero",
       "cards",
-      "columns"
+      "columns",
+      "quote"
     ]
   },
   {
@@ -35,5 +36,5 @@
     "components": [
       "card"
     ]
-  }
+  }   
 ]
